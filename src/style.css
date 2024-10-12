@@ -41,7 +41,7 @@ button {
   transition-duration: all 20ms ease;
 }
 button:hover {
-  background-color: pink;
+  background-color: purple;
 }
 
 .button-section {
