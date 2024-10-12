@@ -1,0 +1,49 @@
+h1 {
+  color: #272044;
+  padding: 0 0 25px;
+  font: bold;
+  font-size: 40px;
+  font-weight: 900px;
+  margin: 60px 0 0;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+  padding: 0 0 25px;
+  font-weight: 900;
+  color: #a07df4;
+  font: bold;
+  font-size: 40px;
+  text-align: center;
+  margin: -13px 0 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+section {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500px;
+}
+
+button {
+  border-radius: 25px;
+  margin: 0 auto;
+  display: block;
+  background-color: #a07df4;
+  border: 1px solid #a07df4;
+  color: white;
+  font-size: 16px;
+  line-height: 22px;
+  padding: 16px 24px;
+  text-decoration: none;
+  transition-duration: all 20ms ease;
+}
+button:hover {
+  background-color: pink;
+}
+
+.button-section {
+  margin: 60px;
+}
